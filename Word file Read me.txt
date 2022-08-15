@@ -1,0 +1,19 @@
+Python libraries
+1.	PyAudio
+2.	Pip install
+3.	Speech_Recognition
+4.	Pyttsx3
+5.	Date_time
+6.	Wikipedia API
+7.	OS lib
+8.	Smtp
+9.	Request
+10.	ecapture
+
+How to install:
+
+1.	First You have to install Python and set the path on environment Variable
+2.	You Can use PyCharm Cummunity for Run Program
+3.	If You Will Use VS Code. Some Python libraries Install on Command Prompt in your operating system
+4.	you can type:  pip install “Libraries Name” 
+					For Expample - pip install pyttsx3
